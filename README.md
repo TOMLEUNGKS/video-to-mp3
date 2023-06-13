@@ -1,7 +1,7 @@
 # video-to-mp3
 A microservice that converts video to mp3.
 
-## Tech stack:
+### Tech stack:
 - Python
 - RabbitMQ
 - MongoDB
